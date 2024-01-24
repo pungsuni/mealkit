@@ -80,5 +80,5 @@
   * API 결제 서비스
 
 ## ERD
-![ERD](https://github.com/pungsuni/mealkit/assets/141155551/48657f2f-cdfe-4252-b402-709878fa7624)
+![image](https://github.com/pungsuni/mealkit/assets/141155551/87cfadfc-04a5-4f1f-8922-77216c2add93)
 
